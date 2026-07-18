@@ -117,5 +117,8 @@ const skills = [
         name: 'Responsive Design',
         icon: 'fa-solid fa-mobile-screen-button',
     },
+
+
+
 ]
 </script>
